@@ -10,22 +10,9 @@ Hi there! I'm a passionate developer who loves TypeScript, NestJS, React, Next.j
 - **Python:** Solving problems with simplicity and elegance.
 - **Bash & Linux:** Navigating and mastering the command line.
 
-## Featured Projects
-<!-- Project images with descriptions -->
-![HERO Platform](https://i.ibb.co/n8dZTMn/Screenshot-2023-12-15-114250.png))
-*HERO Platform - Your platform to directly fund climate campaigners around the world.*
-
-![GCB Crypto Bank](https://i.ibb.co/HNrJymV/Screenshot-2023-12-15-114234.png))
-*GCB Crypto Bank - The first Crypto Bank in the Arab World.*
-
-![Restaurants Club](https://i.ibb.co/n8dZTMn/Screenshot-2023-12-15-114250.png))
-*Restaurants Club - The platform for the restaurant industry to help you create and manage your loyal customer base.*
-
 ## Daily Coding Quote
 <!-- Dynamic coding quote using an API -->
 ![Coding Quote](https://api.quotable.io/random?tags=technology)
-
-
 
 ## Let's Connect
 <!-- Add your social media and professional links -->
