@@ -10,10 +10,6 @@ Hi there! I'm a passionate developer who loves TypeScript, NestJS, React, Next.j
 - **Python:** Solving problems with simplicity and elegance.
 - **Bash & Linux:** Navigating and mastering the command line.
 
-## Daily Coding Quote
-<!-- Dynamic coding quote using an API -->
-![Coding Quote](https://api.quotable.io/random?tags=technology)
-
 ## Let's Connect
 <!-- Add your social media and professional links -->
 - [LinkedIn]([Your-LinkedIn-URL](https://www.linkedin.com/in/moetazbrayek/))
